@@ -1,0 +1,8 @@
+# Virtual environment
+.venv/
+
+# PyCharm
+.idea/
+
+# HTML files
+*.html
