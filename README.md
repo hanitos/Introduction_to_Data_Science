@@ -11,6 +11,8 @@ These tutorials were written by **Hanit Ohayon Hadad** for teaching the *Introdu
 - [Tutorial 5 — KNN algorithm](Tutorial_5.ipynb)
 - [Tutorial 6 — Decision trees](Tutorial_6.ipynb)
 - [Tutorial 7 — Regression](Tutorial_7.ipynb)
+- [Tutorial 8 — K-Means clustering](Tutorial_8.ipynb)
+- [Tutorial 9 — PCA (Principal Component Analysis)](Tutorial_9.ipynb)
 
 ## Tutorials
 
@@ -20,10 +22,12 @@ These tutorials were written by **Hanit Ohayon Hadad** for teaching the *Introdu
 - **Tutorial 5** (`Tutorial_5.ipynb`) — The K-Nearest Neighbors (KNN) algorithm: classification with KNN and evaluating results using a confusion matrix (see `Tutorial_5_confusion matrix.xlsx`).
 - **Tutorial 6** (`Tutorial_6.ipynb`) — Decision trees: building, visualizing, and interpreting decision tree models.
 - **Tutorial 7** (`Tutorial_7.ipynb`) — Regression: fitting and evaluating regression models.
+- **Tutorial 8** (`Tutorial_8.ipynb`) — Unsupervised learning with K-means clustering: grouping California housing districts by location and by income to discover structure without a target variable.
+- **Tutorial 9** (`Tutorial_9.ipynb`) — Dimensionality reduction with PCA: reducing 11 OECD Better Life Index well-being indicators to 2 principal components and interpreting what they represent.
 
 ## Data
 
-The `data/` folder contains the datasets used throughout the tutorials (`Iris.csv`, `diamonds.csv`).
+The `data/` folder contains the datasets used throughout the tutorials (`Iris.csv`, `diamonds.csv`, `oecd_better_life_2015.csv`).
 
 ## Setup
 
